@@ -1,0 +1,13 @@
+2022-06-21	11:39:42 Id:6c6e97c8-012b-42f1-b412-9b8e6976d776 Msg: / 	 GET 
+2022-06-21	11:39:43 Id:7b03b936-ca63-45d2-9575-bc04b75de091 Msg: /assets/css/style.css 	 GET 
+2022-06-21	11:41:39 Id:baa2fd37-8091-4704-8f27-ad6dfc73daa2  Request Url: /about 	 Request Method: GET 
+2022-06-21	11:41:40 Id:8a20fdfc-a8a4-4ea3-91f6-07d6a15d1462  Request Url: /assets/css/style.css 	 Request Method: GET 
+2022-06-21	11:41:55 Id:988c3f5c-774b-4ac2-af3b-9f8b4395b978  Request Url: /aboutasndks 	 Request Method: GET 
+2022-06-21	11:41:56 Id:6a07e0bf-2494-4a05-a250-e27f0598bf3f  Request Url: /assets/css/style.css 	 Request Method: GET 
+2022-06-21	11:44:32 Id:d74fa762-129d-4193-ac9e-d18b0ff01ec9  Request Url: /new-page 	 Request Method: GET 
+2022-06-21	11:44:33 Id:f97af183-7fab-4c93-a7de-b4f8a3a940a0  Request Url: /assets/css/style.css 	 Request Method: GET 
+2022-06-21	11:44:33 Id:ba7b34d3-e74e-4968-b3f5-6b5627c8f1d4  Request Url: /assets/images/bg.jpg 	 Request Method: GET 
+2022-06-21	11:45:31 Id:40b8d050-f14a-4716-aa58-f48f6f0e383d  Request Url: /new-page 	 Request Method: GET 
+2022-06-21	11:46:02 Id:2a657caf-539b-466f-a465-ab6d91c4b346  Request Url: /new-page 	 Request Method: GET 
+2022-06-21	11:46:02 Id:a6e1ecfd-4214-44b7-b655-c94590f9c210  Request Url: /assets/css/style.css 	 Request Method: GET 
+2022-06-21	11:46:02 Id:0dc83b50-aca8-4c95-ad10-940456f3e08d  Request Url: /assets/images/bg.jpg 	 Request Method: GET 

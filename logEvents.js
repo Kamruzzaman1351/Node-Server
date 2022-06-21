@@ -9,12 +9,12 @@ const {format} = require("date-fns")
 const logEvents = async(msg, fileName) => {
     const date = format(new Date(), "yyyy-MM-dd\thh:mm:ss")
     const logId = uuid()
-    const logText = `${date} Id:${logId} Msg: ${msg? msg : "No Message"} File: ${fileName? fileName : "No Name"} \n`
+    const logText = `${date} Id:${logId}  ${msg? msg : "No Message"} \n`
     try {
         if(!fs.existsSync(path.join(__dirname, "logs"))) {
             await fsPromises.mkdir(path.join(__dirname, "logs"))
         }
-        await fsPromises.appendFile(path.join(__dirname, "logs", "EventsLog.txt"), logText)
+        await fsPromises.appendFile(path.join(__dirname, "logs", fileName), logText)
     } catch (error) {
         console.log(error);
     }
