@@ -1,0 +1,2 @@
+2022-06-21	08:42:06 Id:671bb66d-b6c7-43e6-ada4-333cd44632db Msg: Test Event Log Function File: D:\Projects\Node\Learning\nodeServer\server.js 
+2022-06-21	08:42:43 Id:f38468ee-c26a-4ec6-a0fa-9098d94b133e Msg: Test Event Log Function File: D:\Projects\Node\Learning\nodeServer\server.js 
